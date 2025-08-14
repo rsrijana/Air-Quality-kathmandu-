@@ -1,5 +1,5 @@
  
-⚠️ # **Disclaimer**
+⚠️ **Disclaimer**
 
 - Data analyzed in this project is **publicly available** from the US Embassy, Phora Durbar, Kathmandu.  
 - Values presented are based on **collected and cleaned datasets**, but minor discrepancies may exist due to missing or anomalous readings.  

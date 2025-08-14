@@ -42,4 +42,3 @@ Using **Power BI** and **DAX**, the analysis benchmarks air quality values again
 
 ---
 
-## 📂 Repository Structure
